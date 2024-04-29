@@ -13,6 +13,6 @@
 
  ### _Developing SSIS Packages_ 
    + Data Flow Tasks: Create data flow tasks for each ETL process. These tasks will extract data from source systems, transform it (e.g., cleaning, aggregating, merging), and load it into the data mart.
-     + Control Flow: Design the control flow to manage the order of execution and the logical sequence of data flow tasks.
-       + Transformations: Implement transformations such as lookups, derived columns, conditions, etc., to prepare the data for the data mart.
-         + Connection Managers: Set up connection managers to connect to your data sources and destinations.
+   + Control Flow: Design the control flow to manage the order of execution and the logical sequence of data flow tasks.
+   + Transformations: Implement transformations such as lookups, derived columns, conditions, etc., to prepare the data for the data mart.
+  + Connection Managers: Set up connection managers to connect to your data sources and destinations.
