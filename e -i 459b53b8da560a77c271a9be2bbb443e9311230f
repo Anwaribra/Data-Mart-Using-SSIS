@@ -1,0 +1,152 @@
+[33mcommit db841188ebf745a346e0a2f699156a5c5451a952[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Anwaribra <anwarmousa88@gmail.com>
+Date:   Tue Apr 30 22:39:39 2024 +0300
+
+    UploadFiles
+
+[33mcommit 5808f3f9bf4030b241ccb9310507bbda903373e7[m
+Author: Anwaribra <anwarmousa88@gmail.com>
+Date:   Tue Apr 30 19:30:26 2024 +0300
+
+    uploadFiles
+
+[33mcommit de6d62a1100013dc2b89396df19780a09351b47c[m
+Author: Anwaribra <anwarmousa88@gmail.com>
+Date:   Tue Apr 30 19:19:13 2024 +0300
+
+    Configure LFS for .bak files
+
+[33mcommit 459b53b8da560a77c271a9be2bbb443e9311230f[m
+Merge: d173587 294bbda
+Author: Anwaribra <anwarmousa88@gmail.com>
+Date:   Tue Apr 30 18:55:03 2024 +0300
+
+    Merge branch 'main' of https://github.com/Anwaribra/-Data-Mart-Using-SSIS
+
+[33mcommit 294bbda74c0c76ad7aa426f260081245175ac9ad[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Tue Apr 30 18:48:39 2024 +0300
+
+    Create docker-image.yml
+    
+    Signed-off-by: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+
+[33mcommit 4ec1a8890ec06aee2d29b01511073b04114fe33f[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Tue Apr 30 18:44:09 2024 +0300
+
+    Update README.md
+
+[33mcommit d1735871d81fee939ae8f3d533c3e2e6c3f581e7[m
+Author: Anwaribra <anwarmousa88@gmail.com>
+Date:   Mon Apr 29 21:58:41 2024 +0300
+
+    UploadFiles
+
+[33mcommit 4c067e6c94ce2c1bf9151d057d571c6a0fae8fa4[m
+Author: Anwaribra <anwarmousa88@gmail.com>
+Date:   Mon Apr 29 21:53:24 2024 +0300
+
+    UploadFiles
+
+[33mcommit 058556c07050e1a84283c1a59ef5da08be7e4860[m
+Author: Anwar IBrahim <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 19:15:31 2024 +0300
+
+    uploadFiles
+
+[33mcommit da64f0e7965da358f4304b485bc785d24e11ca6b[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 19:05:18 2024 +0300
+
+    Update README.md
+
+[33mcommit 702218119a4e123678b255da4912029b6d47d90a[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 19:03:52 2024 +0300
+
+    Update README.md
+
+[33mcommit c81f7d164c4006b418fc47f078b232b32ef962a2[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 19:03:19 2024 +0300
+
+    Update README.md
+
+[33mcommit eefc2cc1485cfea40d5573a3f77d856347842bc6[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 19:01:13 2024 +0300
+
+    Update README.md
+
+[33mcommit ad2929efa2cf6523948c2b84d79421374034187a[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 19:00:54 2024 +0300
+
+    Update README.md
+
+[33mcommit cd91f4d247adc1dabbdc229220831f98458de3c3[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:59:49 2024 +0300
+
+    Update README.md
+
+[33mcommit 55ec8cee1f455636c78d926b36805ff82a5f24fa[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:55:31 2024 +0300
+
+    Update README.md
+
+[33mcommit 62f997220ac92f73dd3858ba15b6d50674d6c59e[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:53:46 2024 +0300
+
+    Update README.md
+
+[33mcommit 902b9c3ff05c2e080a5e134a1e983727f2fed8c6[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:53:02 2024 +0300
+
+    Update README.md
+
+[33mcommit 00941dce54c88c3ba46ade5fdc34b8d94d51dc34[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:52:48 2024 +0300
+
+    Update README.md
+
+[33mcommit 2844519d2c927e98c094545de493d4295a2b4995[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:51:39 2024 +0300
+
+    Update README.md
+
+[33mcommit da770b088622722d664e212b5f49fb2362fe4ec7[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:50:58 2024 +0300
+
+    Update README.md
+
+[33mcommit 1de9c4b17d59b9fd194510ec327b2337546b5fdd[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:50:16 2024 +0300
+
+    Update README.md
+
+[33mcommit 42188b86bfea4da08f66c309e0705a24a97db2ec[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:47:26 2024 +0300
+
+    Update README.md
+
+[33mcommit 069be074f894e9e75a6bbd32f07795935cde549c[m
+Author: Anwar Mousa <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:45:35 2024 +0300
+
+    Create README.md
+
+[33mcommit 29f482523135898509a63770933bd1b3ec4e831d[m
+Author: Anwar IBrahim <143345963+Anwaribra@users.noreply.github.com>
+Date:   Mon Apr 29 18:44:13 2024 +0300
+
+    Initial commit
