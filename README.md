@@ -18,3 +18,6 @@
   + Connection Managers: Set up connection managers to connect to your data sources and destinations.
 
 #### _Loading the Data Mart_
++ Incremental Loads: Implement logic to handle incremental data loads if the data mart will be refreshed periodically. This may involve timestamp or change data capture (CDC) mechanisms.
++ Error Handling: Add error handling within your SSIS packages to manage and log errors during ETL processes.
++ Performance Tuning: Optimize package performance through techniques like proper indexing, minimizing data at the source, using appropriate transformations, and managing transaction sizes.
