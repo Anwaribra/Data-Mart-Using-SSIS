@@ -21,3 +21,7 @@
 + Incremental Loads: Implement logic to handle incremental data loads if the data mart will be refreshed periodically. This may involve timestamp or change data capture (CDC) mechanisms.
 + Error Handling: Add error handling within your SSIS packages to manage and log errors during ETL processes.
 + Performance Tuning: Optimize package performance through techniques like proper indexing, minimizing data at the source, using appropriate transformations, and managing transaction sizes.
+
+#####  _Deployment and Scheduling_
+ + Deploy the SSIS Packages: Deploy your SSIS packages to an SQL Server instance or SSIS Catalog.
+ +  Schedule the Packages: Use SQL Server Agent or another scheduler to execute the SSIS packages at regular intervals (e.g., nightly, weekly).
