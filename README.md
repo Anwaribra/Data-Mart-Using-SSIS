@@ -7,7 +7,7 @@
 - Dependent Data Marts: These are created from a centralized data warehouse. This ensures that the data mart contains consistent, cleansed, and integrated data.
 - Hybrid Data Marts: These combine input from existing data warehouses with additional operational source data.
 
- ## Setting Up SSIS
+ ## Setting Up SSIS 
 - Install SQL Server Data Tools (SSDT): SSDT includes templates and tools for building SSIS packages.
 - Create an SSIS Project: In Visual Studio with SSDT, create a new Integration Services project.
 
