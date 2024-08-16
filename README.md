@@ -3,7 +3,7 @@
   
 **There are three main types of data marts:**    
 
-- Independent Data Marts: These are developed without a centralized data warehouse and are created by extracting data directly from operational systems or external sources.
+- Independent Data Marts: These are developed without a centralized data warehouse and are created  by extracting data directly from operational systems or external sources.
 - Dependent Data Marts: These are created from a centralized data warehouse. This ensures that the data mart contains consistent, cleansed, and integrated data.
 - Hybrid Data Marts: These combine input from existing data warehouses with additional operational source data. 
 
